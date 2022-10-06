@@ -1,4 +1,3 @@
-// Leetcode Solution
 
 class Solution {
 public:
